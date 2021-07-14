@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container img{
+  height: 350px;
+  width: 250px;
+  }
+  
+  .container {
+    background-color: lightcoral;
+    padding: 30px;
+    margin: 50px;
+    font-weight: bold;
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+  }
+  
+  .container button{
+    color: aliceblue;
+    height: 42px;
+    width: 122px;
+    border-radius: 20px;
+    background-color: brown;
+  }
