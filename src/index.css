@@ -15,16 +15,20 @@ code {
 .container img{
   height: 350px;
   width: 250px;
+  border: solid white;
+  border-radius: 15px;
+  margin-top: 20px;
   }
   
   .container {
-    background-color: lightcoral;
-    padding: 30px;
-    margin: 50px;
+    background-color:lightblue;
+    padding: 20px 20px;
+    margin: 50px 380px;
     font-weight: bold;
     font-size: larger;
     font-family:'Times New Roman', Times, serif;
-    color: white;
+    color:navy;
+    border-radius: 10px;
   }
   
   .container button{
